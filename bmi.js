@@ -41,6 +41,7 @@ function getbmi(w,h){
         else if(bmi>=30)status.innerText = "You have Obesity !!";
         else status.innerText = "Fill the fields correctly";
     
+        
         // for navbar
 let ham = document.getElementById('ham');
 let nav = document.getElementById('navbar');
